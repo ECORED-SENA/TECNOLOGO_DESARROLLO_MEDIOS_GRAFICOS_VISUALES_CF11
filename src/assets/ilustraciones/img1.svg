@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1270" height="219.811" viewBox="0 0 1270 219.811">
+  <defs>
+    <filter id="Trazado_149428" x="0" y="0" width="1270" height="219.811" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_36042" data-name="Rectángulo 36042" width="1240" height="190" rx="23" fill="#fdea94"/>
+    </clipPath>
+    <filter id="Trazado_149430" x="-202.5" y="-8.037" width="636.542" height="445.696" filterUnits="userSpaceOnUse">
+      <feOffset dy="13" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
+      <feFlood flood-color="#e88701" flood-opacity="0.635"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_134917" data-name="Grupo 134917" transform="translate(15 11.811)">
+    <g transform="matrix(1, 0, 0, 1, -15, -11.81)" filter="url(#Trazado_149428)">
+      <path id="Trazado_149428-2" data-name="Trazado 149428" d="M1217,189.811H23c-12.7,0-23-7.945-23-17.747V17.747C0,7.945,10.3,0,23,0H1217c12.7,0,23,7.945,23,17.747V172.064C1240,181.865,1229.7,189.811,1217,189.811Z" transform="translate(15 12)" fill="#fff"/>
+    </g>
+    <g id="Enmascarar_grupo_179" data-name="Enmascarar grupo 179" clip-path="url(#clip-path)">
+      <g id="Grupo_134902" data-name="Grupo 134902" transform="translate(-180 4.652)">
+        <g transform="matrix(1, 0, 0, 1, 165, -16.46)" filter="url(#Trazado_149430)">
+          <path id="Trazado_149430-2" data-name="Trazado 149430" d="M8,140.054c10.148,20.389,29.844,33.262,52.156,38.823,26.453,6.592,52.274,1.472,79.192-3.673,24.818-4.743,52.321-6.892,72.653,8.165,31.558,23.37,33.122,71.039,61.856,97.5,14.216,13.093,33.914,20.263,54.046,19.673,22.256-.652,50.738-11.379,62.775-32.177,11.687-20.2,1.11-39.414,5.681-59.792,8.942-39.854,64.02-39.719,91.3-60.42,13.033-9.89,22.048-24.229,28.384-39.064,7.032-16.465,11.157-34.659,7.286-51.367-6.412-27.677-33.518-37.043-60.209-36.975-19.835.051-39.737,5.9-58.224,14.455-16.349,7.562-31.81,17.244-48.5,23.911-41.211,16.468-80.736-.847-115.235-19.784C196.878,15.026,151.083-8.285,96.85,2.869,55.409,11.392,11.827,38.219,2.343,82.192c-4.011,18.6-3.05,38.12,4.271,54.884Q7.276,138.59,8,140.054Z" transform="translate(354.71 387.16) rotate(-172)" fill="#f57c00"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
