@@ -46,7 +46,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h3.p-color-primario Parámetros a destacar, dentro de la composición
+            p.p-color-primario #[b Parámetros a destacar, dentro de la composición]
             p.p-color-primario #[b Simetría]
             p Consiste en que un elemento guarde relación y correspondencia exacta entre los hemisferios por ejemplo izquierdo y derecho, en cuanto a elementos del diseño como la forma, color y el tamaño.  
             p.p-color-primario #[b Equilibrio simétrico]
@@ -57,8 +57,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            h3.p-color-primario Parámetros a destacar, dentro de la composición
-
+            p.p-color-primario #[b Parámetros a destacar, dentro de la composición]
             p.p-color-primario #[b Equilibrio asimétrico]
             p Este equilibrio se produce al dividir la composición en partes iguales, sin existir las dimensiones o proporciones exactas en cuanto a color, peso, tamaño, el efecto es variado.
             p.p-color-primario #[b Ritmo]
