@@ -76,7 +76,7 @@
     .row.pt-0.d-block.d-lg-none.mt-5  
       .col-lg-12
         p Cuando se habla de los fundamentos de la diagramación, se hace referencia a elementos básicos del diseño gráfico, como el correcto uso del texto, la tipografía, el color y la composición, elementos que serán estudiados a lo largo de este componente. 
-        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img11.svg', alt='')                              
+        img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img11.png', alt='')                              
 
 </template>
 

@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/ilustraciones/Mapa_Conceptual_Resumen.svg", alt="alt")
+          img(src="@/assets/ilustraciones/Mapa_Conceptual_Resumen.jpg", alt="alt")
       //- .col-auto
       //-   a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
       //-     .anexo__icono
