@@ -215,9 +215,10 @@ export default {
     },
     {
       texto:
-        'CGarcía, F. (2021). La Maquetación, normas de composición dentro del diseño gráfico y más [Video]. Youtube. ',
+        'Composición en maquetación //  OMNI (2020). La Principios de Composición Visual Que Te Darán Super Poderes  [Video]. Youtube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=d6gtkrnqtTw',
+      link:
+        'https://www.youtube.com/watch?v=J5tZqRbmjXM // Video // https://www.youtube.com/watch?v=J5tZqRbmjXM',
     },
   ],
   creditos: {
