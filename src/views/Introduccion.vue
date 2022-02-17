@@ -14,8 +14,8 @@
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img2.png', alt='') 
       .col-lg-7
         p(data-aos="fade-down-right").my-3 Antes de tener un producto editorial como un libro, un diario o una revista en las manos, 
-          span(style='color:#F57C00') existe un proceso de ideación, construcción y planeación de cómo se deben presentar dichos contenidos
-          span(style='color:#00223D') , los mismos deben pasar siempre por un proceso de producción y edición editorial, el cual conoceremos a continuación: 
+          span.text-color #[b existe un proceso de ideación, construcción y planeación de cómo se deben presentar dichos contenidos]
+          span , los mismos deben pasar siempre por un proceso de producción y edición editorial, el cual conoceremos a continuación: 
       .col-lg-1
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img3.png', alt='') 
     .row.justify-content-center.align-items-center.mt-5           

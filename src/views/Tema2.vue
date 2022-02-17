@@ -13,8 +13,8 @@
         :style="{'background-image': `url(${require('@/assets/ilustraciones/img12.svg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Existen diversos software de diagramación, sin embargo en diseño es muy utilizado el programa de Adobe InDesign,
-          span(style='color:#F57C00') esta aplicación especializada aporta al proceso de maquetación gran riqueza y versatilidad, en este se pueden crear diversidad de elementos
+        p.mb-0 Existen diversos software de diagramación, sin embargo en diseño es muy utilizado el programa de Adobe InDesign, 
+          span(style='color:#FFA726') #[b esta aplicación especializada aporta al proceso de maquetación gran riqueza y versatilidad, en este se pueden crear diversidad de elementos ] 
           span(style='color:#00223D') como por ejemplo, un flayer básico, una revista, un libro físico o electrónico. Esta es una herramienta necesaria para realizar la diagramación de cualquier pieza gráfica de manera fácil, cuenta con recursos similares ya utilizados de programas como AI y Ps, con recursos como creación de columnas, márgenes y guías, paginación, estilos de párrafo y de carácter entre otras. 
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in")      
@@ -31,7 +31,7 @@
           .col-lg-7.bg-color-t1-2.d-flex.align-content-center.flex-wrap
             p Permite exportar archivos en formatos JPG, PNG, PF O FLASH, entre otros lo cual da gran versatilidad en los documentos.
              
-            p.p-color-primario  Las letras que identifican al programa son ID.
+            p.p-color-primario #[b Las letras que identifican al programa son ID.]
 
     .card-bg-color.card-bg-color__mint.mt-5.pb-5
       .texto-adorno.bg-yellow.px-4.py-2(data-aos="fade-right")
@@ -39,9 +39,12 @@
       .row.justify-content-center.align-items-start.mt-5
         .col-lg-6(data-aos="fade-left")
           p La interfaz de InDesign se compone de la pantalla principal en la cual se abre el programa y los íconos, herramientas y comandos que conforman como tal toda la base del programa.        
-        .col-lg-6(data-aos="fade-right") 
+        .col-lg-6(data-aos="fade-right")
+          .titulo-sexto.color-primario
+            h5 Figura 1
+            span Interfaz de usuario InDesing
           img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img14.jpg', alt='') 
-
+          figcaption Nota. Captura realizada del programa InDesign.
       p(data-aos="fade-down").mt-5 A continuación, se realizará una descripción de los elementos que conforman dicho programa:
 
       ImagenInfografica.color-acento-botones.mt-5

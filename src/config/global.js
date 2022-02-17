@@ -194,7 +194,7 @@ export default {
     {
       termino: 'Píxel',
       significado:
-        'hEs la menor unidad homogénea en color que forma parte de una imagen digital.',
+        'Es la menor unidad homogénea en color que forma parte de una imagen digital.',
     },
     {
       termino: 'Simétrico',
@@ -208,12 +208,14 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Fundamentos y principios de diagramación',
+      texto:
+        'Flores, S. (2020). Elementos de un diseño editorial [Video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0sv2ma0khZ0',
     },
     {
-      texto: 'Composición en maquetación',
+      texto:
+        'CGarcía, F. (2021). La Maquetación, normas de composición dentro del diseño gráfico y más [Video]. Youtube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=d6gtkrnqtTw',
     },
@@ -288,7 +290,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

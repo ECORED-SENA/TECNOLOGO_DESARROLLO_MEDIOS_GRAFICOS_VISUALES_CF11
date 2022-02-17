@@ -60,19 +60,19 @@
             .lista-ol--cuadro__vineta
               span 1
             p
-              span(style='color:#F57C00') Comunicación: 
+              span(style='color:#F57C00') #[b Comunicación: ]
               span el mensaje que puede comunicar el papel, tomando en cuenta: color, textura, brillo, opacidad y calibre.                    
           li 
             .lista-ol--cuadro__vineta
               span 2
             p
-              span(style='color:#F57C00') Uso: 
+              span(style='color:#F57C00') #[b Uso: ]
               span el uso que se le dará al papel, en qué medio va a estar.
           li 
             .lista-ol--cuadro__vineta
               span 3
             p
-              span(style='color:#F57C00') Función: 
+              span(style='color:#F57C00') #[b Función: ]
               span a función del papel se basa tradicionalmente en los gramajes: 
 
         .row.justify-content-center.align-items-center.mt-3(data-aos="zoom-in")      
@@ -80,7 +80,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img63.svg', alt='')
           .col-lg-10
             p
-              span(style='color:#F57C00') De 80 a 120 grs: 
+              span(style='color:#F57C00') #[b De 80 a 120 grs: ]
               span se utiliza principalmente en papelerías corporativas, folletos publicitarios y páginas de libros, entre otras.      
 
         .row.justify-content-center.align-items-center.mt-3(data-aos="zoom-in")      
@@ -88,7 +88,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img63.svg', alt='')
           .col-lg-10
             p
-              span(style='color:#F57C00') De 120 a 220 grs: 
+              span(style='color:#F57C00') #[b De 120 a 220 grs: ]
               span es usado en folletos, catálogos e inserciones publicitarias. 
 
         .row.justify-content-center.align-items-center.mt-3(data-aos="zoom-in")      
@@ -96,7 +96,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img63.svg', alt='')
           .col-lg-10
             p
-              span(style='color:#F57C00') Más de 220 grs: 
+              span(style='color:#F57C00') #[b Más de 220 grs: ]
               span en cubiertas o forros, tarjetas, tarjetones, folders, display y catálogos publicitarios.                                                         
     p.text-center.mt-5(data-aos="fade-down") Se establecen a partir de la norma ISO 216, los parámetros en cuanto a tamaño y utilización: 
 
@@ -198,7 +198,7 @@
 
           .col-lg-7.bg-color-t1-2.d-flex.align-items-center
             p.my-3 
-              span(style='color:#F57C00')  ¿Qué significa «fundamental» y «complementario»?  
+              span(style='color:#F57C00')  #[b ¿Qué significa «fundamental» y «complementario»?  ]
               span  Significa que una carta escrita en una hoja A4 puede introducirse en un sobre C4, mientras que el sobre C4 puede introducirse en un sobre B4. Esto es así porque la hoja C4 es ligeramente más ancha que una A4, y la B4 es ligeramente más ancha que ligeramente más ancha que la C4. 
 
     .row.justify-content-start.align-items-center.mt-5
@@ -208,17 +208,17 @@
     .row.justify-content-end.align-items-center(data-aos="fade-left")
       .col-lg-8.bg-color-t4-1.p-3.sup.row-top-1
         p En la 
-          span(style='color:#F57C00')  serie B
+          span(style='color:#F57C00')  #[b serie B]
           span , los formatos van del B0 (1000×1414 mm) al B10 (31×44 mm), si se está en el mundo editorial. De hecho, el B5 (176×250 mm) es un buen formato para libros. El B0 (1000×1414 mm), el B1 (707×1000 mm) y el B2 (500×707 mm), dadas sus grandes proporciones, pueden ir bien para imprimir pósteres y carteles o para presentaciones de oficina.
         p En cuanto a la serie C, que va de C0 (917×1297 mm) a C10 (28×40 mm), basta con saber que es la serie «complementaria» por excelencia, ya que es la que se usa, sobre todo, para crear sobres postales o sobres para cartas.                                                            
-    Separador.my-5 
+    Separador 
     #t_4_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.1. Sistemas de plegados
     p.mt-5(data-aos="fade-down") Consisten en los plegados a realizar sobre los pliegos impresos, hasta obtener el tamaño y forma deseada, tal como se puede ver a continuación:                            
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-7
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Folletos plegados, díptico y tríptico:")
             .col-lg-12
               p Existen varios tipos de formatos para folletos, los cuales pueden ser modificados y doblados de maneras diferentes.  
@@ -239,14 +239,14 @@
       .col-lg-5
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img75.png', alt='') 
 
-    Separador.my-5 
+    Separador 
     #t_4_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2  4.2. Proceso de maquetación 
 
     p.mt-5(data-aos="fade-down") Para iniciar a dar paso al proceso de maquetación es importante dar respuesta a las siguientes preguntas:   
     img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img79.svg', alt='')
     p.mt-5(data-aos="fade-down") Dar inicio respondiendo estas dos preguntas, 
-      span(style='color:#F57C00')  nos permite desarrollar una idea más clara y concisa, 
+      span(style='color:#F57C00')  #[b nos permite desarrollar una idea más clara y concisa, ]
       span porque no es lo mismo trabajar en una revista de contenido religioso, que en una revista de diseño, música, moda, gastronomía o en una de contenido político.
 
     .row.justify-content-center.align-items-center.mt-5
@@ -259,7 +259,7 @@
               img(src='@/assets/ilustraciones/v1.svg', alt='')
           .list__txt
             p(data-aos="fade-down").mb-0
-              span(style='color:#F57C00') Tener en cuenta el público objetivo: 
+              span(style='color:#F57C00') #[b Tener en cuenta el público objetivo: ]
               span es importante definir el público al cual va a ir dirigido el libro o la revista, esto nos da pautas para definir los elementos que irán en la publicación, colores a utilizar, tipografías que sean acordes al tema, tamaño de papel, inclusive el uso de ciertas retículas.  
 
         .list.mt-3
@@ -268,7 +268,7 @@
               img(src='@/assets/ilustraciones/v1.svg', alt='')
           .list__txt
             p(data-aos="fade-down").mb-0
-              span(style='color:#F57C00') De igual forma se pueden clasificar los elementos a maquetar, 
+              span(style='color:#F57C00') #[b De igual forma se pueden clasificar los elementos a maquetar, ]
               span de acuerdo con los siguientes parámetros:                
       .col-lg-6
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img80.jpg', alt='') 
@@ -283,7 +283,7 @@
                   figure
                     img.img-t.img-a(src='@/assets/ilustraciones/img81.svg', alt='Texto que describa la imagen')
 
-              h5.text-centerDe acuerdo con la frecuencia en la cual va a salir la publicación, esta puede ser:
+              h5.text-center De acuerdo con la frecuencia en la cual va a salir la publicación, esta puede ser:
               p.text-small.text-center Una sola edición
               p.text-small.text-center De circulación diaria
               p.text-small.text-center Semanal
@@ -390,7 +390,7 @@
       .col-lg-5
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img88.jpg', alt='') 
 
-    Separador.my-5 
+    Separador 
     #t_4_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.3.  Del machote al armado  
 

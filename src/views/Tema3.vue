@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in")      
       .col-lg-4(data-aos="fade-left") 
         p La composición se puede definir como  
-          span(style='color:#F57C00') la disposición equilibrada de los elementos dentro del espacio a trabajar, 
+          span(style='color:#F57C00') #[b la disposición equilibrada de los elementos dentro del espacio a trabajar, ]
           span(style='color:#00223D') esta genera sensaciones agradables al lector, es la encargada de mantener el equilibrio del peso visual en la publicación, eliminando el peso que pueda perturbar la expresión visual, porque si el lector inconscientemente ve que el peso de los elementos no está equilibrado, tratará de ordenarlo mentalmente y tiende a perder el interés en la publicación.   
 
       .col-lg-8(data-aos="fade-right")
@@ -20,7 +20,7 @@
 
           .col-lg-7.bg-color-t1-2.d-flex.align-items-center
             p.my-3 Los elementos deben contar con una estructura o base interna definida de acuerdo con el proyecto a realizar, en donde se busca una intención clara y concisa, donde se persigue un interés en particular en el diseño, generando un equilibrio entre los elementos ubicados de manera vertical y horizontal, 
-              span(style='color:#F57C00')  lo cual se expresa en la fuerza de las líneas por medio del movimiento que se genera mediante la tensión y la dirección. 
+              span(style='color:#F57C00')  #[b lo cual se expresa en la fuerza de las líneas por medio del movimiento que se genera mediante la tensión y la dirección. ]
               span  A continuación se presentan dichos elementos:
 
     .card-bg-color.card-bg-color__mint.mt-5
@@ -142,7 +142,7 @@
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img28.png', alt='') 
 
-    Separador.my-5 
+    Separador 
     #t_3_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.2  Elementos de texto 
     .row.justify-content-center.align-items-start.mt-5(data-aos="zoom-in")      
@@ -167,7 +167,9 @@
       .col-lg-8.bg-color-t3-2.p-3.sup.row-top
         p Elegir una tipografía para una diagramación requiere de estudiar previamente el producto para el cual se va a desarrollar, recogiendo datos del cliente, el mercado, las tendencias y demás factores que puedan influir al momento de elegir.
 
-        p.mb-0 Una tipografía seleccionada de manera correcta da legibilidad haciendo que el mensaje se lea sin ningún tipo de esfuerzo. Las letras gruesas dan lugar a bloques oscuros, mientras que las letras delgadas dan lugar a espacios claros. Características como el ancho, el alto, su forma y estructura, sirven para identificar estilos propios de las tipografías como, light, normal, bold, black, entre otras, que pueden ayudar a transformar el mensaje que se quiere transmitir. Cabe resaltar que algunas marcas o productos, diseñan sus propias tipografías esto con el fin de dar exclusividad y relevancia a su marca. 
+        p.mb-0 Una tipografía seleccionada de manera correcta da legibilidad haciendo que el mensaje se lea sin ningún tipo de esfuerzo. Las letras gruesas dan lugar a bloques oscuros, mientras que las letras delgadas dan lugar a espacios claros. 
+          span.text-color #[b Características como el ancho, el alto, su forma y estructura, sirven para identificar estilos propios de las tipografías como, light, normal, bold, black, entre otras, que pueden ayudar a transformar el mensaje que se quiere transmitir. ]
+          span Cabe resaltar que algunas marcas o productos, diseñan sus propias tipografías esto con el fin de dar exclusividad y relevancia a su marca. 
 
     p.mt-5(data-aos="fade-down") Las tipografías se pueden dividir principalmente en tipografías Serif y Sans Serif, pero también existen otras, como se verá a continuación:
 
@@ -239,7 +241,7 @@
               h5.text-center Familia tipográfica: 
               p.text-center Es el conjunto de tipos basado en una misma fuente, con algunas variaciones, tales como, por ejemplo, en el grosor y anchura, pero manteniendo características comunes. Los miembros que integran una familia se parecen entre sí, pero tienen rasgos propios. Por ejemplo: arial negrita, arial italic, arial cursiva y arial condensed pertenecen a la misma familia tipográfica: Arial.
 
-    Separador.my-5 
+    Separador 
     #t_3_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.3  Elementos de imagen
 
@@ -262,8 +264,8 @@
         .col-lg-5.my-3
           p.text-center Imágenes vectoriales, compuestas por elementos geométricos, como la línea o el punto:
           .titulo-sexto.color-primario
-            h5 Ejemplo
-            span de imagen vectorial
+            h5 Figura 2
+            span Ejemplo de imagen vectorial
           img.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img40.svg', alt='') 
         .col-1.d-none.d-lg-block
           img.img-t.img-a.mt-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img42.svg', alt='') 
@@ -271,8 +273,8 @@
         .col-lg-5.my-3
           p.text-center Por otra parte, están las imágenes de mapas de bits, formadas por píxeles dentro de las cuales están las fotografías:
           .titulo-sexto.color-primario
-            h5 Ejemplo          
-            span de imagen de mapa de bits
+            h5 Figura 3         
+            span Ejemplo de imagen de mapa de bits
           img.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img41.png', alt='')
     .card-bg-color-2.card-bg-color-2__mint-blue.p-5(data-aos="fade-right") 
       .row.justify-content-between.align-items-center
@@ -298,13 +300,13 @@
               .row.justify-content-center
                   img.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img46.png', alt='AvatarTop') 
 
-    Separador.my-5 
+    Separador 
     #t_3_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.4. Jerarquías                                    
     .row.justify-content-between.align-items-start
       .col-lg-7.my-3(data-aos="fade-right") 
         p La jerarquía es uno de los conceptos más importantes dentro de la maquetación, se refiere a la importancia, orden o peso visual de cada uno de los elementos dan a la composición, de acuerdo con su importancia o a la intención que se quiera conseguir. 
-          span(style='color:#F57C00') Los elementos que generan jerarquía son el tamaño, el contraste, el color, la proximidad, la orientación, la alineación, la repetición, entre otros.
+          span(style='color:#F57C00') #[b Los elementos que generan jerarquía son el tamaño, el contraste, el color, la proximidad, la orientación, la alineación, la repetición, entre otros.]
         p Saber organizar estos elementos dentro del diseño, ayuda a transmitir de manera fácil, óptima, clara y directa el mensaje a transmitir, aporta diseño, estilo y creatividad al diseño:
       .col-lg-5
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img47.png', alt='') 
@@ -346,7 +348,7 @@
         h5.text-center.p-color-primario Repetición
         p.text-small La repetición de elementos refuerza los parámetros de jerarquía, estos elementos pueden ser textos, formas en diferentes tamaños, en proporciones diferentes de intensidad de color, por ejemplo.     
 
-    Separador.my-5 
+    Separador 
     #t_3_5.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.5.  Retículas 
 
@@ -359,9 +361,13 @@
       .col-lg-5
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img52.png', alt='')
 
-    p.text-center.mt-5(data-aos="fade-down") Las partes de la retícula son: 
-    
-    img.img-t.img-a.mt-5(data-aos="zoom-in")(src='@/assets/ilustraciones/img53.svg', alt='')
+    p.text-center.mt-5(data-aos="fade-down") Las partes de la retícula son:
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-4     
+        .titulo-sexto.color-primario
+          h5 Figura 4
+          span Partes de la retícula     
+    img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img53.svg', alt='')
 
     p.text-center.mt-5(data-aos="fade-down") Existen diferentes tipos de retículas, según el uso u objetivo que se desee. Las principales son:
 
@@ -402,7 +408,7 @@
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img57.svg', alt='') 
 
-    Separador.my-5 
+    Separador 
     #t_3_6.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 3.6.  Módulos 
     p(data-aos="fade-down") El módulo es un elemento utilizado como unidad de medida para determinar las proporciones entre las diferentes partes de una composición y que se repite sistemáticamente en el espacio.                 

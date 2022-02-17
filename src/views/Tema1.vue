@@ -55,7 +55,7 @@
     .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in")      
       .col-lg-4(data-aos="fade-left") 
         p 
-          span(style='color:#F57C00') La diagramación se puede definir como el oficio del diseño el cual se encarga de establecer, distribuir y organizar todos los elementos del mensaje bimedia (texto e imagen), 
+          span(style='color:#FFA726') La diagramación se puede definir como el oficio del diseño el cual se encarga de establecer, distribuir y organizar todos los elementos del mensaje bimedia (texto e imagen), 
           span(style='color:#00223D') en un espacio o formato determinado, con diversos tipos de contenido, teniendo en cuenta el uso de jerarquías en la ubicación de estos, para así lograr armonía y una fácil lectura por parte del lector.   
 
       .col-lg-8(data-aos="fade-right")
@@ -65,7 +65,7 @@
 
           .col-lg-7.bg-color-t1-2.d-flex.align-items-center
             p.my-3 Si los elementos de una diagramación generan caos, se pierde el interés por la pieza. 
-              span(style='color:#F57C00')  Hay estar seguros de lo que se quiere organizar y cómo se va a hacer. 
+              span(style='color:#F57C00')  #[b Hay estar seguros de lo que se quiere organizar y cómo se va a hacer.] 
               span  Aunque parezca muy fácil y sencilla su ejecución, su complejidad se ve inmersa en el hecho que de ella depende que haya una lectura fácil y coherente. 
 
     .bg_t1-1.mt-5.p-5(data-aos="fade-right").d-none.d-lg-block       
