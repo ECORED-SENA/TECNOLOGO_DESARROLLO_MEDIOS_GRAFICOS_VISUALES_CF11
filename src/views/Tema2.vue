@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.pb-md-0
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
@@ -76,13 +76,22 @@
           .h5.mb-2.p-color-primario  Paneles
           p Los paneles ubicados a la derecha contienen información, propiedades y características divididas por grupos de herramientas.                                 
 
-      p(data-aos="fade-down").mt-5 Para profundizar, se debe observar los siguientes videos que permitirán tener un mayor reconocimiento de la plataforma InDesign y sus funcionalidades: 
+      p(data-aos="fade-down").mt-5 Para profundizar, se debe observar los siguientes videos que permitirán tener un mayor reconocimiento de la plataforma InDesign y sus funcionalidades:
 
-      .row.justify-content-center.align-items-center.mt-5           
-        .col-lg-12(data-aos="fade-left")     
-          figure
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+    TabsB.color-primario.mt-5
+      .py-4.py-md-5(titulo="Primeros pasos" :icono="require('@/assets/ilustraciones/video.svg')")       
+
+        .row.justify-content-center.align-items-center           
+          .col-lg-12(data-aos="fade-left")     
+            figure
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/xVYnHa0wtiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+      .py-4.py-md-5(titulo="Otras herramientas importantes " :icono="require('@/assets/ilustraciones/video.svg')")
+        .row.justify-content-center.align-items-center           
+          .col-lg-12(data-aos="fade-left")     
+            figure
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/n7Neg6LNpAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                   
 
 </template>
 
