@@ -65,7 +65,7 @@
 
           .col-lg-7.bg-color-t1-2.d-flex.align-items-center
             p.my-3 Si los elementos de una diagramación generan caos, se pierde el interés por la pieza. 
-              span(style='color:#F57C00')  #[b Hay estar seguros de lo que se quiere organizar y cómo se va a hacer.] 
+              span(style='color:#F57C00')  #[b Hay que estar seguros de lo que se quiere organizar y cómo se va a hacer.] 
               span  Aunque parezca muy fácil y sencilla su ejecución, su complejidad se ve inmersa en el hecho que de ella depende que haya una lectura fácil y coherente. 
 
     .bg_t1-1.mt-5.p-5(data-aos="fade-right").d-none.d-lg-block       

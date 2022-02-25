@@ -109,7 +109,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -132,11 +132,6 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -175,7 +170,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Asimétrico  ',
+      termino: 'Asimétrico',
       significado: 'Que carece de simetría.',
     },
     {

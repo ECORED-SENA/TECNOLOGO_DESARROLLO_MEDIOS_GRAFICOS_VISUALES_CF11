@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/ilustraciones/img12.svg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Existen diversos software de diagramación, sin embargo en diseño es muy utilizado el programa de Adobe InDesign, 
+        p.mb-0 Existen diversos #[i software] de diagramación, sin embargo en diseño es muy utilizado el programa de Adobe InDesign, 
           span(style='color:#FFA726') #[b esta aplicación especializada aporta al proceso de maquetación gran riqueza y versatilidad, en este se pueden crear diversidad de elementos ] 
           span(style='color:#00223D') como por ejemplo, un flayer básico, una revista, un libro físico o electrónico. Esta es una herramienta necesaria para realizar la diagramación de cualquier pieza gráfica de manera fácil, cuenta con recursos similares ya utilizados de programas como AI y Ps, con recursos como creación de columnas, márgenes y guías, paginación, estilos de párrafo y de carácter entre otras. 
 
@@ -29,7 +29,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img13.svg', alt='') 
 
           .col-lg-7.bg-color-t1-2.d-flex.align-content-center.flex-wrap
-            p Permite exportar archivos en formatos JPG, PNG, PF O FLASH, entre otros lo cual da gran versatilidad en los documentos.
+            p Permite exportar archivos en formatos JPG, PNG, PDF O FLASH, entre otros lo cual da gran versatilidad en los documentos.
              
             p.p-color-primario #[b Las letras que identifican al programa son ID.]
 

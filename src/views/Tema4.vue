@@ -117,7 +117,7 @@
           .col-md-6.mb-4.mb-md-0
             h4.p-color-primario Formato A1. MEDIDAS: 
             h5.p-color-primario 594 X 841 MM: 
-       
+      
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img65.svg', alt='')  
 
@@ -136,7 +136,7 @@
             h5.p-color-primario 297 X 420 MM: 
             p Junto con el A4 es, sin duda, uno de los cortes más comunes. Precisamente por ello, la mayor parte de las impresoras utilizadas en las oficinas también están diseñadas para hojas A3, además de A4. 
             p ¿Para qué se usa? Se utiliza para imprimir dibujos, gráficos, pósteres, fotografías, revistas, partituras, carteles y diplomas. 
-                   
+                  
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img67.svg', alt='')  
 
@@ -146,7 +146,7 @@
             h5.p-color-primario 210 X 297 MM: 
             p El A4 es el folio clásico para impresora, el usado para los documentos estándar, ya sean cartas o formularios. 
             p Es el formato de los cuadernos que se utilizan en los colegios, de los libros infantiles y de las enciclopedias (que requieren más espacio para las ilustraciones), de las revistas y de los folletos. De hecho, el folleto clásico es un A4 plegado en tres.
-                   
+                  
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img68.svg', alt='')       
 
@@ -155,7 +155,7 @@
             h4.p-color-primario Formato A5. MEDIDAS: 
             h5.p-color-primario 841 X 1.189 MM: 
             p El A5 es el formato perfecto para los blocs de notas, el A5 también puede ir bien para la impresión de libros, además de revistas y folletos.
-                   
+                  
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img69.svg', alt='')      
 
@@ -163,8 +163,8 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4.p-color-primario Formato A6. MEDIDAS: 
-            h5.p-color-primario 105 X 148 MM: 
-                   
+            h5.p-color-primario 105 X 148 MM 
+                  
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img70.svg', alt='')    
 
@@ -173,7 +173,7 @@
             h4.p-color-primario Formato A7. MEDIDAS: 
             h5.p-color-primario 74 X 105 MM:
             p Dado su tamaño más pequeño, el A7 se puede utilizar para crear, por ejemplo, un calendario de bolsillo con los horarios de los cursos de un centro deportivo o de un colegio, así como folletos o tarjetas de felicitación. 
-                   
+                  
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img71.svg', alt='') 
 
@@ -182,7 +182,7 @@
             h4.p-color-primario Formato A8. MEDIDAS: 
             h5.p-color-primario 52 X 74 MM: 
             p Tarjetas de presentación normalmente tienen un formato similar, ligeramente más grande (85 × 55 mm). 
-                   
+                  
           .col-md-6
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img72.svg', alt='') 
 
@@ -199,7 +199,7 @@
           .col-lg-7.bg-color-t1-2.d-flex.align-items-center
             p.my-3 
               span(style='color:#F57C00')  #[b ¿Qué significa «fundamental» y «complementario»?  ]
-              span  Significa que una carta escrita en una hoja A4 puede introducirse en un sobre C4, mientras que el sobre C4 puede introducirse en un sobre B4. Esto es así porque la hoja C4 es ligeramente más ancha que una A4, y la B4 es ligeramente más ancha que ligeramente más ancha que la C4. 
+              span  Significa que una carta escrita en una hoja A4 puede introducirse en un sobre C4, mientras que el sobre C4 puede introducirse en un sobre B4. Esto es así porque la hoja C4 es ligeramente más ancha que una A4, y la B4 es ligeramente más ancha que la C4. 
 
     .row.justify-content-start.align-items-center.mt-5
       .col-lg-5
@@ -243,7 +243,7 @@
     #t_4_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2  4.2. Proceso de maquetación 
 
-    p.mt-5(data-aos="fade-down") Para iniciar a dar paso al proceso de maquetación es importante dar respuesta a las siguientes preguntas:   
+    p.mt-5(data-aos="fade-down") Para iniciar el proceso de maquetación es importante dar respuesta a las siguientes preguntas:   
     img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img79.svg', alt='')
     p.mt-5(data-aos="fade-down") Dar inicio respondiendo estas dos preguntas, 
       span(style='color:#F57C00')  #[b nos permite desarrollar una idea más clara y concisa, ]
@@ -374,9 +374,9 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-7(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Paso 2: Elige unos márgenes correctos") Lo mejor es que utilices uno de los más habituales. Antes de elegirlo asegurarte de que la imprenta o la plataforma de publicación trabaja con este. 
-
           p.text-small(numero="2" titulo="Paso 1: Elige el formato adecuado") Estos dependen del número de páginas y del tipo de encuadernación. La clave es que pienses como un lector, a todos nos gustan los márgenes funcionales, que no sean ni muy estrechos ni demasiado amplios.
+
+          p.text-small(numero="1" titulo="Paso 2: Elige unos márgenes correctos") Lo mejor es que utilices uno de los más habituales. Antes de elegirlo asegurarte de que la imprenta o la plataforma de publicación trabaja con este. 
 
           p.text-small(numero="3" titulo="Paso 3: Haz un croquis de las partes el libro") Haz un croquis de las partes el libro. Quizá esta es la parte que más atención requiere a la hora de maquetar un libro. Para ello es útil que tomes un libro que tengas a mano y lo abras. Verás el orden de sus partes. 
 
@@ -403,8 +403,7 @@
           span(style='color:#F57C00') Nota: 
           span Es importante tener en cuenta que una página es cada cara de un folio, lo cual define que un folio tiene 2 páginas.     
         p El armado de igual manera se puede realizar de manera digital o manual, para empezar, sería bueno ejecutar el ejercicio de manera manual, teniendo todas las páginas que van a hacer parte de la publicación, para así estipular la paginación y enfrentar las hojas que van en cada uno de los lados, por lo general las páginas pares quedaran al lado izquierdo y las páginas impares al lado derecho. 
-        p
-          span(style='color:#F57C00') #[b Finalmente, y con el fin de sintetizar el contenido de este componente formativo se invita a descargar el siguiente mapa conceptual resumen.]          
+       
       .col-lg-5
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/ilustraciones/img89.svg', alt='')       
 

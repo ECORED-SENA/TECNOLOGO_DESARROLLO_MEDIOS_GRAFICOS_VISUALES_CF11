@@ -279,7 +279,7 @@
     .card-bg-color-2.card-bg-color-2__mint-blue.p-5(data-aos="fade-right") 
       .row.justify-content-between.align-items-center
         .col-lg-5.my-3
-          p Los espacios en blanco sirven para dar forma, orden y estructura dentro de la diagramación, ayudan a generar la sensación de libertad y claridad, aunque son espacios que no son programados, siempre es tienen en cuenta intuitivamente, debido a que sin estos se formaría el caos y el desorden en la publicación. A continuación se presentan algunos ejemplos:                
+          p Los espacios en blanco sirven para dar forma, orden y estructura dentro de la diagramación, ayudan a generar la sensación de libertad y claridad, aunque son espacios que no son programados, siempre se tienen en cuenta intuitivamente, debido a que sin estos se formaría el caos y el desorden en la publicación. A continuación se presentan algunos ejemplos:                
         .col-lg-7.my-3.sup
           SlyderF(columnas="col-12")
             .crd.crd-blue.crd--100.p4                
