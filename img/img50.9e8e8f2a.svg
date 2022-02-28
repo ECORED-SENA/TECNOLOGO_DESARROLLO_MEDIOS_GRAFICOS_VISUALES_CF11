@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105">
+  <g id="Grupo_141813" data-name="Grupo 141813" transform="translate(-905 -868)">
+    <g id="Elipse_4886" data-name="Elipse 4886" transform="translate(905 868)" fill="#fff" stroke="#f57c00" stroke-width="3">
+      <circle cx="52.5" cy="52.5" r="52.5" stroke="none"/>
+      <circle cx="52.5" cy="52.5" r="51" fill="none"/>
+    </g>
+    <g id="Grupo_141807" data-name="Grupo 141807" transform="translate(284 194)">
+      <g id="Rectángulo_38033" data-name="Rectángulo 38033" transform="translate(639 704)" fill="#fff" stroke="#f57c00" stroke-width="3">
+        <rect width="37" height="46" stroke="none"/>
+        <rect x="1.5" y="1.5" width="34" height="43" fill="none"/>
+      </g>
+      <g id="Grupo_141806" data-name="Grupo 141806" transform="translate(0 -1.5)">
+        <line id="Línea_898" data-name="Línea 898" x2="27" transform="translate(680.5 708.5)" fill="none" stroke="#f57c00" stroke-width="3"/>
+        <line id="Línea_899" data-name="Línea 899" x2="27" transform="translate(680.5 718.5)" fill="none" stroke="#f57c00" stroke-width="3"/>
+        <line id="Línea_900" data-name="Línea 900" x2="27" transform="translate(680.5 728.5)" fill="none" stroke="#f57c00" stroke-width="3"/>
+        <line id="Línea_901" data-name="Línea 901" x2="27" transform="translate(680.5 738.5)" fill="none" stroke="#f57c00" stroke-width="3"/>
+        <line id="Línea_902" data-name="Línea 902" x2="27" transform="translate(680.5 748.5)" fill="none" stroke="#f57c00" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
