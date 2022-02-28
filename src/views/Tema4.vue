@@ -101,7 +101,7 @@
     p.text-center.mt-5(data-aos="fade-down") Se establecen a partir de la norma ISO 216, los parámetros en cuanto a tamaño y utilización: 
 
     .card-bg-color.card-bg-color__mint.mt-5
-      SlyderE(indicadores="derecha")(data-aos="fade-left")
+      SlyderA(tipo="b")(data-aos="fade-left")
         .row
           .col-md-6.mb-4.mb-md-0
             h4.p-color-primario Formato A0. MEDIDAS:  
